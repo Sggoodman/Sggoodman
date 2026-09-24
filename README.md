@@ -16,7 +16,7 @@
 
 | 方向 | 工具与技术 |
 |---|---|
-| 语言 | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white) |
+| 语言 | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white) |
 | 后端 | Gin · gRPC · MySQL · Redis · Kafka |
 | 数据 | 数据中台建设 · ETL · 数仓建模 |
 | AI/LLM | Eino · RAG · 语音转写 · Agent 应用 |
@@ -26,8 +26,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sggoodman&show_icons=true&hide_border=true&include_all_commits=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sggoodman&layout=compact&hide_border=true" height="165" alt="Top languages" />
+[![Followers](https://img.shields.io/github/followers/Sggoodman?style=flat-square&label=Followers&color=blue)](https://github.com/Sggoodman)
+[![dotfiles Stars](https://img.shields.io/github/stars/Sggoodman/dotfiles?style=flat-square&label=dotfiles%20stars)](https://github.com/Sggoodman/dotfiles)
+[![Commit Activity](https://img.shields.io/github/commit-activity/y/Sggoodman/dotfiles?style=flat-square&label=commits%2Fyear)](https://github.com/Sggoodman/dotfiles/commits)
 
 </div>
 
@@ -48,7 +49,7 @@
 ## 📫 联系方式
 
 <!-- 填写你愿意公开的联系方式 -->
-- Email: `your@email.com`
+- Email: [sggoodman@163.com](mailto:sggoodman@163.com)
 - GitHub: [@Sggoodman](https://github.com/Sggoodman)
 
 ---
