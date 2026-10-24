@@ -2,11 +2,12 @@
 
 <div align="center">
 
-**Go 后端工程师** · 数据中台 & LLM 应用开发
+**Go 后端工程师** · LLM 应用 & 数据中台
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sggoodman-181717?style=flat-square&logo=github)](https://github.com/Sggoodman)
 [![Go](https://img.shields.io/badge/Go-主力语言-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev)
 [![Claude](https://img.shields.io/badge/Claude_Code-重度用户-191919?style=flat-square&logo=claude&logoColor=white)](https://claude.com/claude-code)
+[![Conductor](https://img.shields.io/badge/Conductor-多会话并行-7C3AED?style=flat-square)](https://conductor.build)
 
 </div>
 
@@ -20,7 +21,8 @@
 | 后端 | Gin · gRPC · MySQL · Redis · Kafka |
 | 数据 | 数据中台建设 · ETL · 数仓建模 |
 | AI/LLM | Eino · RAG · 语音转写 · Agent 应用 |
-| 工具链 | Git · Docker · JetBrains · Claude Code |
+| AI 工作流 | Claude Code · Conductor · Git Worktree 多会话并行开发 |
+| 工具链 | Git · Docker · JetBrains |
 
 ## 📊 GitHub 统计
 
@@ -42,9 +44,9 @@
 ## 📌 关于我
 
 - 🔭 目前在 **阿普星数（湖南）科技 · 智数与基础设施中心** 从事数据中台后端开发
-- 🌱 最近在探索：Go LLM 应用框架（Eino）、语音转写服务、量化方向
+- 🌱 最近在探索：LLM 后端工程化（Kafka 消费链路、SSE 流式推送）、AI 编码工作流（Claude Code × Conductor）
 - 💬 问我 Go 后端、数据中台、LLM 工程化的事
-- ⚡ 工作外：折腾开发环境，让工具为自己服务
+- ⚡ 工作外：折腾开发环境与 AI 工作流，让工具为自己服务
 
 ## 📫 联系方式
 
