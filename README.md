@@ -39,7 +39,6 @@
 | 仓库 | 说明 |
 |---|---|
 | [dotfiles](https://github.com/Sggoodman/dotfiles) | 个人配置库：PowerShell / Go 库收藏 / Claude Code 配置，新机一键恢复 |
-| [private-dotfiles](https://github.com/Sggoodman/private-dotfiles) | 🔒 私有配置备份 |
 
 ## 📌 关于我
 
@@ -53,9 +52,3 @@
 <!-- 填写你愿意公开的联系方式 -->
 - Email: [sggoodman@163.com](mailto:sggoodman@163.com)
 - GitHub: [@Sggoodman](https://github.com/Sggoodman)
-
----
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Sggoodman&style=flat-square&color=blue" alt="profile views" />
-</div>
